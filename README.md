@@ -1,7 +1,7 @@
 # wxEmuArm
 
 This is a toy program that emulates some commands of the cpu.
-It is a rewrite in CPP from the earlier EmuArm. It can now read in the
+It is a rewrite in CPP from the earlier EmuArm. It can now read in the file with instructions and go throught them step by step.
 It is modelled after early arm architecture - having 15 general purpose 32-bit registers.
 Also the commands are arm-like.
 I implemented it with the thought of programing my own, more exotic bit operations and checking if they can be useful for something.
